@@ -1,0 +1,16 @@
+Nation,PurchasedItem,Age,Salary
+India,No ,25,35000
+UK,Yes,,40000
+Germany,No ,50,54000
+UK,No ,35,
+Germany,Yes,40,60000
+India,Yes,35,58000
+UK,No ,,52000
+India,Yes,48,
+Germany,No ,50,83000
+India,Yes,37,
+Germany,No ,21,24000
+India,Yes,,60000
+UK,No ,63,70000
+Germany,Yes,26,36000
+India,No ,45,40000

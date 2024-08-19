@@ -1,0 +1,26 @@
+status,bed,bath,acre_lot,city,state,zip_code,house_size,prev_sold_date,price
+for_sale,3,2,0.12,Adjuntas,Puerto Rico,601,920,34457,105000
+for_sale,4,2,0.08,Adjuntas,Puerto Rico,601,1527,25367,80000
+for_sale,2,1,0.15,Juana Diaz,Puerto Rico,795,748,4990,67000
+for_sale,4,2,0.1,Ponce,Puerto Rico,731,1800,32325,145000
+for_sale,6,2,0.05,Mayaguez,Puerto Rico,680,,34556,65000
+for_sale,4,3,0.46,San Sebastian,Puerto Rico,612,2520,97644,179000
+for_sale,3,1,0.2,Ciales,Puerto Rico,639,2040,26578,50000
+for_sale,3,2,0.08,Ponce,Puerto Rico,731,1050,67982,71600
+for_sale,2,1,0.09,Ponce,Puerto Rico,730,1092,34457,100000
+for_sale,5,3,7.46,Las Marias,Puerto Rico,670,5403,25367,300000
+for_sale,3,2,13.39,Isabela,Puerto Rico,662,1106,4990,89000
+for_sale,3,2,0.08,Juana Diaz,Puerto Rico,795,1045,32325,150000
+for_sale,3,2,0.1,Lares,Puerto Rico,669,4161,34556,155000
+for_sale,5,2,0.12,Utuado,Puerto Rico,641,1620,97644,79000
+for_sale,5,5,0.74,Ponce,Puerto Rico,731,2677,26578,649000
+for_sale,3,2,0.08,Yauco,Puerto Rico,698,1100,67982,120000
+for_sale,4,4,0.22,Mayaguez,Puerto Rico,680,3450,34457,235000
+for_sale,3,2,0.08,Ponce,Puerto Rico,728,1500,25367,105000
+for_sale,3,2,3.88,San Sebastian,Puerto Rico,685,4000,4990,575000
+for_sale,6,3,0.25,Anasco,Puerto Rico,610,1230,32325,140000
+for_sale,2,1,0.23,Yauco,Puerto Rico,698,621,34556,50000
+for_sale,6,3,0.1,Moca,Puerto Rico,676,3000,97644,165000
+for_sale,3,1,2,Coamo,Puerto Rico,769,1213,26578,189000
+for_sale,3,2,,Ponce,Puerto Rico,716,1148,67982,115000
+for_sale,3,2,0.05,Yauco,Puerto Rico,698,1118,34457,122500
